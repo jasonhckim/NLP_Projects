@@ -14,7 +14,7 @@ We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive
 
 and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
 
-Dataset
+## Dataset
 
 This dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews 
 
